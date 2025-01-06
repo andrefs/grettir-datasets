@@ -1,0 +1,13 @@
+Elton John, Bruce Springsteen, 1,
+Matt Bellamy (Muse), Steven Tyler (Aerosmith), 2,
+John Lennon (The Beatles), Prince, 3,
+Steven Tyler (Aerosmith), Prince, 4,
+Steven Tyler (Aerosmith), John Lennon (The Beatles), 5,
+John Lennon (The Beatles), Elton John, 6,
+Elton John, Madonna, 7,
+Steven Tyler (Aerosmith), Madonna, 8,
+Adele, Eddie Vedder (Pearl Jam), 9,
+Madonna, Eddie Vedder (Pearl Jam), 10,
+Rihanna, John Lennon (The Beatles), 11,
+Rihanna, Matt Bellamy (Muse), 12,
+Matt Bellamy (Muse), John Lennon (The Beatles), 13
